@@ -1,0 +1,6 @@
+######### Para executar o projeto na sua máquina, altere o caminho no arquivo Constants.Py #################
+
+
+            ### ASSETS_PATH  = ASSETS_PATH = OUTPUT_PATH / Path(r"C:\DevProjects\recicla_machine\colorful") ###
+            ### Alí em Path("") ###
+            ### É só copiar o Path da pasta 'colorful' e colar Alí em Path("") ###
